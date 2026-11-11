@@ -16,8 +16,8 @@
 <br/>
 
 <a href="https://github.com/AlanJs26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanJs26&theme=tokyonight&show_icons=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJs26&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extendeds.vercel.app/api?username=AlanJs26&theme=tokyonight&show_icons=true&rank_icon=github" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlanJs26&layout=compact&theme=tokyonight" />
 </a>
 
 <br/>
